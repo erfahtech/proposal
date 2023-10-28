@@ -7,14 +7,14 @@
       "npm1": "1214031",
       "email1": "erditonaushaadam@gmail.com",
       "github1": "https://github.com/erditona",
-      "foto1": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/gambar/Dito.jpg"
+      "foto1": "https://raw.githubusercontent.com/erfahtech/proposal/main/gambar/Dito.jpg"
     },
     {
       "name2": "Auliana Fahrian",
       "npm2": "1214049",
       "email2": "aulianafahrian@gmail.com",
       "github2": "https://github.com/aulianafahrian",
-      "foto2": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/gambar/aupa.JPG"
+      "foto2": "https://raw.githubusercontent.com/erfahtech/proposal/main/gambar/aupa.JPG"
     }
   ],
 
@@ -26,14 +26,14 @@
     "latarBelakang3": "Pengembangan Aplikasi Monitoring IoT dengan JavaScript dan Protokol MQTT diharapkan meningkatkan efisiensi dan kualitas kehidupan. Diharapkan aplikasi ini akan menjadi alat yang mumpuni dalam pengelolaan perangkat IoT, memungkinkan pengguna untuk mengontrol, memantau, dan mengoptimalkan penggunaan perangkat dengan lebih baik. Kami berharap aplikasi ini akan menghasilkan penghematan energi dan sumber daya yang signifikan, berkontribusi pada pelestarian lingkungan, dan mengurangi biaya operasional.",
     "latarBelakang4": "Selain itu, diharapkan aplikasi ini akan meningkatkan kenyamanan pengguna dan produktivitas dalam berbagai lingkungan, serta memberikan tingkat keamanan yang lebih tinggi melalui notifikasi. Manajemen yang lebih efisien, integrasi data yang lebih baik dengan platform lain, dan peningkatan kualitas hidup diharapkan menjadi hasil dari penggunaan aplikasi ini. Pada akhirnya, kami berharap aplikasi ini akan mendorong inovasi lebih lanjut dalam teknologi IoT dan aplikasi berbasis JavaScript, membuka pintu bagi berbagai aplikasi yang lebih pintar dan efisien di berbagai sektor.",
     "waktuPelaksanakan": "",
-    "jadwal": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/gambar/Jadwal.png"
+    "jadwal": "https://raw.githubusercontent.com/erfahtech/proposal/main/gambar/Jadwal.png"
   },
 
   "Logo": {
-    "logo1": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/gambar/JavaScript-logo.png",
-    "logo2": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/7c2f73536edbe47b82e9bf1391bac7953644cab5/gambar/mqtt-logo.svg",
-    "logo3": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/gambar/esp%20logo.png",
-    "logo4": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/e86c76a86dc2ed477a8e46aac2c91cd2aab1e083/gambar/visual-studio-code-1.svg",
-    "logo5": "https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/e86c76a86dc2ed477a8e46aac2c91cd2aab1e083/gambar/visual-studio-code-1.svg"
+    "logo1": "https://raw.githubusercontent.com/erfahtech/proposal/main/gambar/JavaScript-logo.png",
+    "logo2": "https://raw.githubusercontent.com/erfahtech/proposal/cb1183edc12825f4e42a434b658cd51031a440d9/gambar/mqtt-logo.svg",
+    "logo3": "https://raw.githubusercontent.com/erfahtech/proposal/main/gambar/esp%20logo.png",
+    "logo4": "https://raw.githubusercontent.com/erfahtech/proposal/cb1183edc12825f4e42a434b658cd51031a440d9/gambar/visual-studio-code-1.svg",
+    "logo5": "https://raw.githubusercontent.com/erfahtech/proposal/cb1183edc12825f4e42a434b658cd51031a440d9/gambar/visual-studio-code-1.svg"
   }
 }

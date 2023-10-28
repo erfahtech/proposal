@@ -1,4 +1,3 @@
-
 import { setInner } from "https://jscroot.github.io/element/croot.js";
 import {get} from "https://jscroot.github.io/api/croot.js";
 
@@ -40,5 +39,5 @@ const responsFungsi = (data) => {
 
     };
 
-await get("https://raw.githubusercontent.com/erfahtech/erfahtech.github.io/main/json/isiproposal.json", responsFungsi);
+await get("https://raw.githubusercontent.com/erfahtech/proposal/main/json/isiproposal.json", responsFungsi);
 
